@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title:
-description:
+title: vDevices
+description: Consulting on Free, Open Source Software | Creating Quality Websites for Lawyers & Other Professionals
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url:
+url: http://www.vdevices.com
 
 # Jekyll configuration
 
@@ -21,7 +21,7 @@ gems:
 
 # Site owner
 owner:
-  name:
+  name: Pablo Carranza
   email:
   twitter:
   google:
