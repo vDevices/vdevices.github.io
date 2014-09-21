@@ -1,4 +1,6 @@
 ---
+title: Monitoring Chrome Extensions, Plugins & Other Add-ons
+layout: article
 comments: true
 ---
 
