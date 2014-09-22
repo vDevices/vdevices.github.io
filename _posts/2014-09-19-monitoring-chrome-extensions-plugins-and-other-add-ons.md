@@ -1,6 +1,7 @@
 ---
 title: Monitoring Chrome Extensions, Plugins & Other Add-ons
 layout: article
+modified: 2014-09-22
 comments: true
 ---
 One facet that makes Google [Chrome](https://www.google.com/chrome/browser/) (and Mozilla [Firefox](https://www.mozilla.org/en-US/firefox/new/)) awesome is the concept of *Extensions* or *Plugins* (Internet Explorer eventually joined the party, but so late that both Chrome & Firefox blow it ‘outta the water’). Extensions & plugins essentially add functionality to your web browser, so that your browser is not only for viewing web pages.
